@@ -1,7 +1,7 @@
 # Data_Mining_Research-Practice_2020_HW4
 HW4 - Fake News Detection  
 資料集 : Fake News Detection Challenge KDD 2020  
-目標 : 利用資料集進行時間序列分析&迴歸預測pm2.5值。  
+目標 : 預測一則新聞是否reliable  
 流程 :  
 >1.資料前處理  
  a. 讀取"train.csv"與"test.csv"並利用分割符號切割、建立train&test之DataFrame  
